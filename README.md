@@ -7,3 +7,4 @@ __
 
 ### Основные темы курса:
 * [Урок 1.](https://github.com/khubulovi/java_professional_level/tree/master/src/lesson1) Java. Обобщения
+* [Урок 2.](https://github.com/khubulovi/java-professional-level/tree/master/src/lesson2) Базы данных
