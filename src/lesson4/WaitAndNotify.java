@@ -10,7 +10,6 @@ public class WaitAndNotify implements Runnable {
     public WaitAndNotify(char letter, char nextletter) {
         this.letter = letter;
         this.nextletter = nextletter;
-
     }
 
     @Override
