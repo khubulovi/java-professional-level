@@ -12,5 +12,6 @@ __
 * [Урок 4.](https://github.com/khubulovi/java-professional-level/tree/master/src/lesson4) Многопоточность. Часть I
 * [Урок 5.](https://github.com/khubulovi/java-professional-level/tree/master/src/lesson5) Многопоточность. Часть II
 * [Урок 6.](https://github.com/khubulovi/java-professional-level/tree/master/src/lesson6) Обзор средств разработки
+* [Урок 7.](https://github.com/khubulovi/java-professional-level/tree/master/src/lesson7) Reflection API и аннотации
 
 
