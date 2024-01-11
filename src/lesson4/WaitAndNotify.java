@@ -5,7 +5,6 @@ public class WaitAndNotify implements Runnable {
     static Object obj = new Object();
     private char letter;
     private char nextletter;
-    private char thirdLetter;
 
     public WaitAndNotify(char letter, char nextletter) {
         this.letter = letter;
